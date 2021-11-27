@@ -11,9 +11,9 @@ local default = {
     excluded_filetypes = {},
     winblend = 0,
     shape = {
-        head = "▲",
-        body = "█",
-        tail = "▼",
+        head = "▎",
+        body = "▎",
+        tail = "▎",
     },
     highlight = {
         head = "Normal",
